@@ -39,8 +39,3 @@ smart-bakery-bot/
 Configuration
 Edit menu.json to customize the bakery's menu items, prices, and descriptions.
 
-Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
-
-License
-This project is open source and available for personal and educational use.
